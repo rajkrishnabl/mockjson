@@ -1,0 +1,22 @@
+  [
+      {"id": 1, "name": "Mitsubishi", "car_model": "Montero",  "car_model_year": 2002, "price": "$30", "image": "https://imgd.aeplcdn.com/664x374/cw/ec/23799/Mitsubishi-Montero-Right-Front-Three-Quarter-74529.jpg?v=201711021421&q=85" },
+      {"id": 2, "name": "Nissan", "car_model": "Sylphy",  "car_model_year": 2010, "price": "$33", "image": "https://reports.nissan-global.com/EN/wp-content/uploads/2018/06/sylphy.jpg" },
+      {"id": 3, "name": "Audi", "car_model": "Q5 Facelift",  "car_model_year": 2012, "price": "$38", "image": "https://static.toiimg.com/thumb/msid-76694145,width-1200,height-900,resizemode-4/.jpg" },
+      {"id": 4, "name": "Audi", "car_model": "New A6",  "car_model_year": 2016, "price": "$42", "image": "https://imgd.aeplcdn.com/664x374/cw/ec/39472/Audi-New-A6-Exterior-169814.jpg?wm=0&q=85" },
+      {"id": 5, "name": "Ford", "car_model": "Endeavour",  "car_model_year": 2019, "price": "$39", "image": "https://imgd.aeplcdn.com/664x374/n/55reasa_1459072.jpg?q=85" },
+      {"id": 6, "name": "Kia", "car_model": "Carnival",  "car_model_year": 2018, "price": "$40", "image": "https://www.kia.com/content/dam/kia2/in/en/images/360vr/carnival/apb92fc5jgg041/exterior/abp/07-d.png" },
+      {"id": 7, "name": "Ferrari", "car_model": "488 Spider",  "car_model_year": 2017, "price": "$42", "image": "https://www.carmodelslist.com/wp-content/uploads/2012/04/Ferrari-488-Spider-car-model.jpg" },
+      {"id": 8, "name": "Renault", "car_model": "Triber",  "car_model_year": 2018, "price": "$35", "image": "https://imgd.aeplcdn.com/0x0/n/cw/ec/39276/triber-exterior-right-front-three-quarter-168563.jpeg" },
+      {"id": 9, "name": "Volkswagen", "car_model": "Polo",  "car_model_year": 2011, "price": "$34", "image": "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_400,ar_16:9/npwnc0vkzypirj7hp1he.jpg" },
+      {"id": 10, "name": "Mercedes-Benz", "car_model": "C-class",  "car_model_year": 2019, "price": "$41", "image": "https://imgd.aeplcdn.com/0x0/cw/ec/30146/MercedesBenz-CClass-Facelift-Exterior-130761.jpg?wm=0" },
+      {"id": 11, "name": "Ferrari", "car_model": "Enzo",  "car_model_year": 2017, "price": "$48", "image": "https://www.carmodelslist.com/wp-content/uploads/2012/04/Enzo-Ferrari-Car-model.jpg" },
+      {"id": 12, "name": "Kia", "car_model": "Seltos",  "car_model_year": 2015, "price": "$36", "image": "https://www.kia.com/content/dam/kia2/in/en/images/360vr/seltos/tiw5k4g1uhh132/exterior/a6r/09-d.png" },
+      {"id": 13, "name": "Ford", "car_model": "Freestyle",  "car_model_year": 2014, "price": "$32", "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=http%3A%2F%2Fcms.haymarketindia.net%2Fmodel%2Fuploads%2Fmodelimages%2Ffreestylemodelimage.jpg&h=578&w=872&c=1" },
+      {"id": 14, "name": "Nissan", "car_model": "Patrol",  "car_model_year": 2013, "price": "$38", "image": "https://www.carmodelslist.com/wp-content/uploads/2012/04/Nissan-Patrol.jpg" },
+      {"id": 15, "name": "Nissan", "car_model": "Maxima",  "car_model_year": 2018, "price": "$40", "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-20th-anniv-maxima-24-1200x850-1600782997.jpg?crop=0.686xw:0.484xh;0.186xw,0.495xh&resize=1200:*" },
+      {"id": 16, "name": "Maruti", "car_model": "Shift",  "car_model_year": 2001, "price": "$30", "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/54399/exterior-right-front-three-quarter-10.jpeg?q=85" },
+      {"id": 17, "name": "Hyundai", "car_model": "Creta",  "car_model_year": 2010, "price": "$32", "image": "https://imgd.aeplcdn.com/642x361/n/cw/ec/95519/hyundai-creta-left-front-three-quarter0.jpeg?wm=1&q=85" },
+      {"id": 18, "name": "Toyota", "car_model": "Fortuner",  "car_model_year": 2016, "price": "$41", "image": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-19.jpeg?q=85" },
+      {"id": 19, "name": "Hyundai", "car_model": "I20",  "car_model_year": 2020, "price": "$35", "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/i20-bc3/i20-bc3-highlights-designed-to-stand-out-m.jpg" },
+      {"id": 20, "name": "Mahindra", "car_model": "Xuv500",  "car_model_year": 2019, "price": "$33", "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https%3a%2f%2fcdni.autocarindia.com%2fExtraImages%2f20200828024151_XUV500.jpg&h=795&w=1200&c=0" }
+     ]
